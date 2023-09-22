@@ -1,0 +1,47 @@
+{
+    "0": {
+        "card_name": "a-card-0",
+        "name": "Арбат-Никитская",
+        "image": "media_other/arbat-nikitskaya.jpg"
+    },
+    "1": {
+        "card_name": "a-card-1",
+        "name": "Китай-Город",
+        "image": "media_other/kitay_gorod.jpg"
+    },
+    "2": {
+        "card_name": "a-card-2",
+        "name": "Красная Пресня-Сити",
+        "image": "media_other/krasnaya_presnya_siti.jpeg"
+    },
+    "3": {
+        "card_name": "a-card-3",
+        "name": "Кутузовский проспект",
+        "image": "media_other/kutuzowskiy_prospekt.jpg"
+    },
+    "4": {
+        "card_name": "a-card-4",
+        "name": "Патриаршие пруды",
+        "image": "media_other/patriarshie_prudi.jpg"
+    },
+    "5": {
+        "card_name": "a-card-5",
+        "name": "Тверская улица",
+        "image": "media_other/tverskaya.jpg"
+    },
+    "6": {
+        "card_name": "a-card-6",
+        "name": "Хамовники-Осторженка",
+        "image": "media_other/hamowniki_ostorjenka.jpeg"
+    },
+    "7": {
+        "card_name": "a-card-7",
+        "name": "Цветной бульвар",
+        "image": "media_other/cwetniy_bulvare.jpeg"
+    },
+    "8": {
+        "card_name": "a-card-8",
+        "name": "Любой",
+        "image": "media_other/luboy_rayon.jpg"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "0": {
+        "card_name": "k-card-0",
+        "name": "Азиатская",
+        "image": "media_other/asiatskaya.jpg"
+    },
+    "1": {
+        "card_name": "k-card-1",
+        "name": "Авторская",
+        "image": "media_other/avtorskaya.jpg"
+    },
+    "2": {
+        "card_name": "k-card-2",
+        "name": "Грузинская",
+        "image": "media_other/gruzinskaya.jpg"
+    },
+    "3": {
+        "card_name": "k-card-3",
+        "name": "Европейская",
+        "image": "media_other/ewropeyskaya.jpeg"
+    },
+    "4": {
+        "card_name": "k-card-4",
+        "name": "Русская",
+        "image": "media_other/russkaya.jpg"
+    },
+    "5": {
+        "card_name": "k-card-5",
+        "name": "Любая",
+        "image": "media_other/lubaya_kuhnya.jpg"
+    }
+}

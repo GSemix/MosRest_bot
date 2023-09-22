@@ -1,0 +1,1342 @@
+{
+    "1285426267": {
+        "username": "potfish",
+        "kitchen": "Любая",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5296779418": {
+        "username": null,
+        "kitchen": "Азиатская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "551917720": {
+        "username": "artemshishov",
+        "kitchen": "Азиатская",
+        "area": "Хамовники-Остоженка",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "604458731": {
+        "username": null,
+        "kitchen": "Русская",
+        "area": "Хамовники-Остоженка",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "858164964": {
+        "username": "sv_dariia",
+        "kitchen": "Любая",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "442507883": {
+        "username": "prostodanya8",
+        "kitchen": "Грузинская",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "479954148": {
+        "username": "tematme",
+        "kitchen": "Европейская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "401586800": {
+        "username": "anastasiyaknr",
+        "kitchen": "Авторская",
+        "area": "Тверская улица",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "150776591": {
+        "username": "katya_leksa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "location_res",
+        "favorites": []
+    },
+    "519124824": {
+        "username": "narryst",
+        "kitchen": "Грузинская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "590242926": {
+        "username": "chernoskutovv",
+        "kitchen": "Русская",
+        "area": "Тверская улица",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "306678028": {
+        "username": "Egor1422",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "favorites_res",
+        "favorites": []
+    },
+    "490181784": {
+        "username": "missnestlee",
+        "kitchen": "Европейская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "142811540": {
+        "username": "glebsjh",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "715837764": {
+        "username": "emilia078",
+        "kitchen": "Авторская",
+        "area": "Хамовники-Остоженка",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "847322339": {
+        "username": "tayamatyukhina",
+        "kitchen": "Русская",
+        "area": "Красная Пресня-Сити",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "267945004": {
+        "username": "kkristysh",
+        "kitchen": "Азиатская",
+        "area": "Кутузовский проспект",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "481831949": {
+        "username": "bbamby",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "899308557": {
+        "username": "sandrik_fed",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "333565170": {
+        "username": "iagafonov12",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "533310956": {
+        "username": "julichcaa",
+        "kitchen": "Европейская",
+        "area": "Тверская улица",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "439809368": {
+        "username": "vasilisasmith",
+        "kitchen": "Азиатская",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "323608212": {
+        "username": "juliasam13",
+        "kitchen": "Любая",
+        "area": "Красная Пресня-Сити",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "457590671": {
+        "username": "nastkho",
+        "kitchen": "Европейская",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "97915880": {
+        "username": "polya_levadnaya",
+        "kitchen": "Грузинская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "914901191": {
+        "username": "Alisentaa",
+        "kitchen": "Авторская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "search_res",
+        "favorites": []
+    },
+    "471688431": {
+        "username": "helloolleh0",
+        "kitchen": "Европейская",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "top_res",
+        "favorites": []
+    },
+    "248511609": {
+        "username": "h1loo",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "620328542": {
+        "username": "ateika",
+        "kitchen": "Грузинская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "551940326": {
+        "username": "sashunya22",
+        "kitchen": "Авторская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "433249100": {
+        "username": "krasivokaifovo",
+        "kitchen": "Европейская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "314788636": {
+        "username": "sonyapss",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "225365948": {
+        "username": "ekaterinaplotnikova",
+        "kitchen": "Любая",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "681596458": {
+        "username": "lusergienko",
+        "kitchen": "Авторская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "search_res",
+        "favorites": []
+    },
+    "231669560": {
+        "username": "ASRD01",
+        "kitchen": "Азиатская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "308713228": {
+        "username": "Sadfreetoo",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "132066838": {
+        "username": "nikolaypopov777",
+        "kitchen": "Грузинская",
+        "area": "Кутузовский проспект",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "131574194": {
+        "username": "Artem_MR",
+        "kitchen": "Любая",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "875548739": {
+        "username": "bebebebebebebeebeb",
+        "kitchen": "Европейская",
+        "area": "Кутузовский проспект",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "503435479": {
+        "username": "x11010011110000100111",
+        "kitchen": "Азиатская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "search_res",
+        "favorites": []
+    },
+    "1194607653": {
+        "username": "apolinariann",
+        "kitchen": "Русская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "342826507": {
+        "username": "beatakiki",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "top_res",
+        "favorites": []
+    },
+    "1324199066": {
+        "username": "batysshka",
+        "kitchen": "Азиатская",
+        "area": "Кутузовский проспект",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "245103042": {
+        "username": "KillReal43",
+        "kitchen": "Европейская",
+        "area": "Красная Пресня-Сити",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "190257214": {
+        "username": "stacyluy",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "472245079": {
+        "username": "Yashin_Timur",
+        "kitchen": "Европейская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "157562863": {
+        "username": "mmmargoshaa",
+        "kitchen": "Европейская",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "290623693": {
+        "username": "justforswin",
+        "kitchen": "Грузинская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "851204193": {
+        "username": "Vkhramova",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "926634077": {
+        "username": "mariagaligina",
+        "kitchen": "Грузинская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "308632137": {
+        "username": "anastasialemuria",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1358102932": {
+        "username": "alenkaaaaaaaaaaaaaaaaaaaaa",
+        "kitchen": "Грузинская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "238006734": {
+        "username": "millendr",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1840478622": {
+        "username": null,
+        "kitchen": "Русская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5115483594": {
+        "username": null,
+        "kitchen": "Русская",
+        "area": "Цветной бульвар",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "448507617": {
+        "username": "theranos",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1304897073": {
+        "username": "Boobobooo4682",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5508695005": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1371410145": {
+        "username": "misha0112",
+        "kitchen": "Грузинская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "717315508": {
+        "username": "mestozanyto",
+        "kitchen": "Любая",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "705228129": {
+        "username": "obezzzyanka",
+        "kitchen": "Грузинская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "6186864147": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1392463462": {
+        "username": "aannnetttaa",
+        "kitchen": "Азиатская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5298652054": {
+        "username": "Liza8d",
+        "kitchen": "Грузинская",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "top_res",
+        "favorites": []
+    },
+    "397298852": {
+        "username": "egorkaravaytsev",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "search_res",
+        "favorites": []
+    },
+    "159264154": {
+        "username": "orehov_art",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "879707829": {
+        "username": "offi_dani",
+        "kitchen": "Русская",
+        "area": "Китай-Город",
+        "access": true,
+        "admin": true,
+        "state": "doc_users",
+        "favorites": [
+            "15",
+            "35",
+            "87",
+            "13"
+        ]
+    },
+    "1300035703": {
+        "username": null,
+        "kitchen": "Азиатская",
+        "area": "Арбат-Никитская",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": [
+            "35",
+            "67",
+            "13"
+        ]
+    },
+    "262997988": {
+        "username": "veronikkkaaaaaaaaa",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "568187061": {
+        "username": "Istilldontknowanything",
+        "kitchen": "",
+        "area": "Любой",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "821824225": {
+        "username": "milfhanter2004",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": [
+            "35"
+        ]
+    },
+    "622589142": {
+        "username": "ilinadaev",
+        "kitchen": "Авторская",
+        "area": "Китай-город",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "1054005543": {
+        "username": "Scharamov",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5659251574": {
+        "username": "dashakolesnilova06",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "490483818": {
+        "username": "SsXxX_1",
+        "kitchen": "Любая",
+        "area": "Патриаршие пруды",
+        "access": true,
+        "admin": true,
+        "state": "main",
+        "favorites": [
+            "1",
+            "52",
+            "157",
+            "15",
+            "144",
+            "87",
+            "7",
+            "20",
+            "46",
+            "13",
+            "27",
+            "35"
+        ]
+    },
+    "1885568663": {
+        "username": "lidia132",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1217840856": {
+        "username": "pollliezzzy",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "830316855": {
+        "username": "pomgranat",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "492740906": {
+        "username": "svetikotova",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1899995009": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "770541736": {
+        "username": "sokolovskaya_7",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "820228016": {
+        "username": "be_nelina",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5029742036": {
+        "username": "d_2008R",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "338069729": {
+        "username": "elizaveta421",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "569518026": {
+        "username": "joonson1",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "990298511": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "location",
+        "favorites": []
+    },
+    "667496640": {
+        "username": "Ramzes_metshin",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "888932571": {
+        "username": "ksenya_tishina8",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "545382752": {
+        "username": "a_yushinaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "630855861": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "948351643": {
+        "username": "fuwersii",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "711316552": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1247763184": {
+        "username": "dar_ya729",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "998314564": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "838186864": {
+        "username": "yanavou",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "555946935": {
+        "username": "anaykir",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "1054620505": {
+        "username": "LenaBocharov",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "765535766": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5949161347": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": [
+            "126"
+        ]
+    },
+    "444197893": {
+        "username": "IamLesyaS",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "921737931": {
+        "username": "iriLnL",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1044313621": {
+        "username": "taisia_vor",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "224808980": {
+        "username": "polina_kit",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "862941626": {
+        "username": "ladahi",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "775066068": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5668739938": {
+        "username": "polinamirra2",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "943249977": {
+        "username": "alesana8",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "686404149": {
+        "username": "v_gorya4eva",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "475230454": {
+        "username": "QSLIVQ",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "727112916": {
+        "username": "mart_an05",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "651540483": {
+        "username": "plachutnebesa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "906969731": {
+        "username": "andreyfunz",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1225315789": {
+        "username": "zgmng",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "5874573763": {
+        "username": "ggutsv",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "275570178": {
+        "username": "KiryaCho",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1162951932": {
+        "username": "irenkkkk",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "993376689": {
+        "username": "nastaska_24",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "589754575": {
+        "username": "LINAS20",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "715821405": {
+        "username": "Nekitlifeof_13",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "265334030": {
+        "username": "polinao17",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "768798184": {
+        "username": "Ivan_A585",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "845829106": {
+        "username": "cisorussia",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1972298115": {
+        "username": "wequtaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "596551220": {
+        "username": "v_zabava5",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "875354830": {
+        "username": "yuuuliiiia",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5729196047": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1445753081": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "899433096": {
+        "username": "katuuuuuuushaaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "1045833287": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "912219612": {
+        "username": "MashaBolat",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1295091648": {
+        "username": "dubrovinanstasia",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "812345570": {
+        "username": "ne_tvoya_zvezda",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "5633735015": {
+        "username": "tsarkova_li17",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1470565036": {
+        "username": "devfresh",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "409364826": {
+        "username": "ksyu_uy",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "316704622": {
+        "username": "ilyaaailyaaailyaaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "774741994": {
+        "username": "iamdinulyaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "456889278": {
+        "username": "ogurViktoriya",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "941560663": {
+        "username": "manka_lu",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1135234862": {
+        "username": null,
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "1321085685": {
+        "username": "VioGogh",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "809327937": {
+        "username": "mashh95",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "517756708": {
+        "username": "vlst0",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "parameters",
+        "favorites": []
+    },
+    "830649298": {
+        "username": "dashyn_mouse",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "348740286": {
+        "username": "dariyayaaa",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    },
+    "296715250": {
+        "username": "nastuuush",
+        "kitchen": "",
+        "area": "",
+        "access": true,
+        "admin": false,
+        "state": "main",
+        "favorites": []
+    }
+}

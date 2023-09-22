@@ -1,0 +1,3 @@
+source venv/bin/activate	(или . venv/bin/activate)	# Вход в venv
+deactivate						 	# Выход из venv
+pip3 install -r venv/requirements.txt 
